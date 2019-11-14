@@ -1,0 +1,16 @@
+{
+  "name": "getting-started-with-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deep-freeze": "0.0.1",
+    "expect": "^24.9.0",
+    "redux": "^4.0.4"
+  }
+}
